@@ -1,7 +1,6 @@
----
-lab:
-    title: 'Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service'
----
+
+   'Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service'
+--------------------------------------------------------------------------------------
 
 # Architecture 
 ![](./Screenshot%202024-09-27%20211820.png)
